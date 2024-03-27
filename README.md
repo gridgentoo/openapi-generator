@@ -1,5 +1,5 @@
-Оригинальный код 
-https://github.com/OpenAPITools/openapi-generator
+Оригинальный код   
+https://github.com/OpenAPITools/openapi-generator   
 
 <h1 align="center">OpenAPI Generator</h1>
 
